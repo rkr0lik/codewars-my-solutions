@@ -13,6 +13,6 @@ select table schema
 
 ```sql 
 SELECT DISTINCT age
-FROM people
+FROM people;
 ```
 
